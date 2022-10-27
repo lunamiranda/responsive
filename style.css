@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 80px;
+}
+
+.logo {
+ 
+    width: 60px;
+}
+
+ul,li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+}
+
+.menu{
+   font-size: 20px;
+   font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.namelogo{
+    font-size: 40px;
+    margin-left: 5px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Work Sans', sans-serif;
+    padding: 20px 80px 0 80px;
+    margin-bottom: 50px;
+    
+}
+
+
+.header, #top-section{
+    background-color: #74C68D;
+    margin: 0;
+    
+
+}
+
+#top-section, #partners, #articles, #team, #contact{
+    padding: 0 80px;
+}
+
+h3.page1{
+    margin: 0;
+    padding: 50px 0 0 0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    margin: 20px 0;
+}
+
+#top-section{
+    color: #fff;
+    padding-bottom: 120px;
+}
+
+#top-section p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.726);
+
+}
+
+#top-section div {
+    width: 40%;
+}
+
+.btn-white{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    border-radius: 5%;
+    padding: 10px 40px;
+    margin-top: 10px;
+}
+
+.btn-dark{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5%;
+    padding: 10px 40px;
+    margin-top: 10px;
+}
+
+.img-meninas{
+    position: absolute;
+    margin-top: -260px;
+    margin-left: 380px;
+    width: 580px;
+}
+
+.text-block {
+    text-align: center;
+}
+
+.partners-text {
+    color: #74C68D;
+    font-size: 16px;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    margin: 40px 0 15px 0;
+}
+
+h2 {
+    font-family: 'Crimson Text', sans-serif;
+    font-size: 40px;
+    margin: 0;
+}
+
+#partners p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.logos {
+    width: 1000px;
+    margin-left: 50px;
+    margin-top: 20px;
+
+}
+
+.partners-button {
+    display: inline-block;
+    margin: 60px 450px 0   ;
+}
